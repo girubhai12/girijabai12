@@ -6,12 +6,16 @@ Frontend Developer
 
 I am frontend Developer who loves react and Js
 
-* 🌍  I'm based in Nepall
+* 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [Giru Bhai](http://portfolio-ituy.onrender.com/)
 * ✉️  You can contact me at [girijabhai12@gmail.com](mailto:girijabhai12@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Politician ,tell everyone
+
+<a href="https://www.x.com/https://twitter.com/mara61103" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/https://twitter.com/mara61103?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ### Skills
 
